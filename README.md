@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DobleA74
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Node JS, HTML, CSS
+- 💞️ I’m looking to collaborate on web design
+- 📫 How to reach me andresandriani@gmail.com
 
 <!---
 DobleA74/DobleA74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
