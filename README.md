@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DobleA74
-- 🌱 I’m currently learning Node JS, HTML, CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web design
 - 📫 How to reach me andresandriani@gmail.com
 
